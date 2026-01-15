@@ -414,6 +414,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
+  mini_magick
   mysql2 (= 0.5.7)
   propshaft
   pry-rails
