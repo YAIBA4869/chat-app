@@ -112,6 +112,14 @@
   margin-bottom: 40px;
 }
 
+.message-image {
+  max-width: 500px;
+  max-height: 500px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
 .form {
   background-color: #dddddd;
   height: 90px;
